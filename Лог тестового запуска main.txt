@@ -1,0 +1,33 @@
+1111111111111111111111111111111111111111111111
+Total amount os stations is 89
+There are 89 stations to expect in 2030
+Setted usage of the backup energy power is 15.0%
+There are suggestion to use:
+3.5 kW chargers: 77
+50 kW chargers:  3
+150 kW chargers: 9
+At existing malls:       3 of 50 kW
+At existing gasStations: 9 of 150 kW
+At existing MKDs:        77 of 3.5 kW
+Power usage of the backup energy power is 6.5%
+----------------Economics----------------
+OPEX for 150 kW charges: 1350000...2700000
+OPEX for 50 kW charges:  240000...360000
+OPEX for 3,5 kW charges:  up to 3850000
+2222222222222222222222222222222222222222222222
+Total amount os stations is 101
+There are 173 stations to expect in 2030
+Setted usage of the backup energy power is 15.0%
+There are suggestion to use:
+3.5 kW chargers: 85
+50 kW chargers:  4
+150 kW chargers: 12
+At existing parkings:    7 of 3.5 kW
+At existing malls:       4 of 50 kW
+At existing gasStations: 12 of 150 kW
+At existing MKDs:        78 of 3.5 kW
+Power usage of the backup energy power is 15.0%
+----------------Economics----------------
+OPEX for 150 kW charges: 1800000...3600000
+OPEX for 50 kW charges:  320000...480000
+OPEX for 3,5 kW charges:  up to 4250000
